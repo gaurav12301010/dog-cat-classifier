@@ -18,9 +18,6 @@ This project is a Dog and Cat Classifier built using Convolutional Neural Networ
 
 - Jupyter Notebook
 
-## 📂 Dataset
-
-The dataset used for training consists of labeled images of dogs and cats. It is sourced from publicly available datasets like Kaggle’s Dogs vs. Cats Dataset.
 
 
 🔧 Installation & Setup
@@ -40,5 +37,8 @@ The dataset used for training consists of labeled images of dogs and cats. It is
 - Softmax Activation for Classification
 
 
+## 📂 Dataset
+
+The dataset used for training consists of labeled images of dogs and cats. It is sourced from publicly available datasets like Kaggle’s Dogs vs. Cats Dataset.
 
 
